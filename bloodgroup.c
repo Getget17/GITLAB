@@ -1,3 +1,4 @@
+/* Program #1 */
 #include <stdio.h>
 #include <string.h>
 void main()
@@ -45,4 +46,5 @@ void main()
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
   printf("Goodbye\n");
+  printf("See you next time");
 }
