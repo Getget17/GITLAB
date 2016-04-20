@@ -1,5 +1,5 @@
 /* Program #1 */
-/* modified by phNatt */
+/* modified by phNatt and Getget17 */
 #include <stdio.h>
 #include <string.h>
 void main()
