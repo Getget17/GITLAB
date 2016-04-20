@@ -1,4 +1,4 @@
-//This is program 1 
+//This is program 2 
 #include <stdio.h>
 
 void main()
