@@ -1,8 +1,9 @@
 /* Program #1 */
+/* modified by phNatt */
 #include <stdio.h>
 #include <string.h>
 void main()
-{ char Name[40], G[5], answer[10];
+{ char Name[50], G[5], answer[20];
   int i;
   do
   {
